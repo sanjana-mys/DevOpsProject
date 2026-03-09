@@ -1,6 +1,6 @@
 print("Hello from Python")
 
-a = 10
+a = 100
 b = 20
 
 print("Sum:", a + b)

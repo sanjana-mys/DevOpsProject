@@ -4,6 +4,6 @@ print("shefbad")
 print("sdhbkdjnakjdhahddws")
 a = 100
 b = 200
-c=90
+c=90000
 
-print("Sum:", a + b+c)
+print("Sum:", a + b-c)

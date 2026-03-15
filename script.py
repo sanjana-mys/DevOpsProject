@@ -1,8 +1,8 @@
 print("Hello from Python")
 print("Hikjjfhsriufghshfi")
-print("sdhbkdjnakjdhahd")
+print("sdhbkdjnakjdhahddws")
 a = 100
-b = 20
+b = 200
 c-90
 
 print("Sum:", a + b+c)
